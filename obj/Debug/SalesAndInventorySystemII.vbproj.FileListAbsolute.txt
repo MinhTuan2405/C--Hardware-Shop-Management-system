@@ -1,0 +1,81 @@
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Form1.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmautonumber.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_customer.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_reports.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_settings.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockmaster.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockreturn.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_suplier.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_transaction.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.ftrans.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_adduser.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_Login.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Resources.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.vbproj.GenerateResource.Cache
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.pdb
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_return.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockin.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockout.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_receipt.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_viewTransaction.resources
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.exe
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.xml
+C:\Users\Janobe\Documents\Visual Studio 2008\Projects\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.pdb
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.exe
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.xml
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.pdb
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.exe
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.pdb
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.xml
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\ResolveAssemblyReference.cache
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Form1.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmautonumber.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_customer.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_reports.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_settings.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockmaster.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockreturn.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_suplier.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_transaction.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.ftrans.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_adduser.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_return.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockin.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockout.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_receipt.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_viewTransaction.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_Login.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Resources.resources
+D:\sourcecodester\system\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.vbproj.GenerateResource.Cache
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.exe
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.xml
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.pdb
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.exe
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.pdb
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.xml
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\ResolveAssemblyReference.cache
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Form1.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmautonumber.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_customer.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_reports.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_settings.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockmaster.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_stockreturn.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_suplier.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_transaction.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.ftrans.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_adduser.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_return.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockin.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frmview_stockout.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_receipt.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_viewTransaction.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.frm_Login.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.Resources.resources
+D:\sourcecodester\system\Updated\Sales and Inventory System\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.vbproj.GenerateResource.Cache
+C:\Users\HCT\Downloads\sales_and_inventory_system\SalesAndInventorySystemII\SalesAndInventorySystemII\bin\Debug\SalesAndInventorySystemII.exe.config
+C:\Users\HCT\Downloads\sales_and_inventory_system\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.xml
+C:\Users\HCT\Downloads\sales_and_inventory_system\SalesAndInventorySystemII\SalesAndInventorySystemII\obj\Debug\SalesAndInventorySystemII.pdb
